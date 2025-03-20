@@ -1,0 +1,40 @@
+@import '../../../styles/color.sass'
+
+.layout
+    overscroll-behavior: none
+    position: relative
+    justify-content: space-between
+    width: 100%
+    &__warning-plug
+        margin-bottom: 30px
+        @media (max-width: 767px)
+            margin-bottom: 20px
+    &__plug
+        margin-bottom: 16px
+    &__plug-icon
+        display: block
+        @media (max-width: 1023px)
+            display: none
+    &__wrapper
+        overscroll-behavior: none
+        padding: 0 40px
+        height: 100%
+        display: flex
+        flex-direction: column
+        justify-content: space-between
+        width: 100%
+        @media (max-width: 1439px)
+            padding: 0 30px
+        @media (max-width: 767px)
+            padding: 0 20px
+
+    &__children-wrapper
+        width: 100%
+        display: flex
+        flex-direction: column
+        @media (max-width: 1439px)
+            width: 100%
+            margin-left: 0
+        &--full-height
+            @media (min-width: 1025px)
+                height: calc(100% - 200px)

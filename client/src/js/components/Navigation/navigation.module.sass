@@ -1,0 +1,75 @@
+@import './default.vars.sass'
+@import '../../../styles/__modificators/__text.sass'
+
+.nav
+    position: relative
+    height: 100%
+    @extend %text--default
+    &__item
+        position: relative
+        display: block
+        font-weight: $nav-link-font-weight
+        &--active
+            & .nav__link
+                color: $nav-text-active-color
+                background-color: $nav-active-link-background
+                box-shadow: $nav-shadow
+                font-weight: $nav-link-active-font-weight
+            & .nav__icon-wrapper
+                background-color: $nav-active-icon-wrapper-background
+            & .nav__icon
+                color: $nav-active-icon-background
+                
+        &:hover
+            & .nav__link
+                color: $nav-text-active-color
+            & .nav__icon
+                color: $nav-hover-icon-color
+            & .nav__icon-wrapper
+                background-color: $nav-active-icon-wrapper-background
+
+    &__link
+        color: $nav-text-color
+        position: relative
+        padding: 5px 8px
+        border-radius: $nav-radius
+        text-transform: capitalize
+        @extend %text--default
+        cursor: pointer
+        font-weight: $nav-link-font-weight
+
+    &__link-text
+        @media (min-width: 1024px) and (max-width: 1680px)
+            display: none
+
+    &__link-arrow
+        position: absolute
+        top: 22px
+        right: 24px
+        z-index: 2
+        transition: transform 0.2s linear
+        & svg
+            color: $nav-icon-link-arrow-color
+        &--turn 
+            transform: rotate(-180deg)
+
+    &__icon-wrapper
+        border-radius: $nav-icon-wrapper-border-radius
+        background-color: $nav-icon-wrapper-background
+        box-shadow: $nav-icon-wrapper-shadow
+
+    &__icon
+        color: $nav-icon-color
+
+    &__sublink
+        color: $nav-sublink-font
+        cursor: pointer
+        &:first-child
+            padding-top: 16px
+        &:hover,
+        &--active
+            color: $nav-active-sublink-font
+
+    &__sublink-text
+        position: relative
+

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Component Snapshot testing 1`] = `
+<DocumentFragment>
+  <h2
+    class="text--middle font--400 color--primary font--uppercase "
+    id="test-text"
+  >
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit
+  </h2>
+</DocumentFragment>
+`;

@@ -1,0 +1,48 @@
+@import 'default.vars.sass'
+
+.link
+    white-space: normal
+    &--primary
+        color: $primary-link-font-color
+        & svg
+            color: $primary-link-font-color
+        &--active
+            color: $primary-link-active-font-color
+            & svg
+                color: $primary-link-active-font-color
+
+        &:hover 
+            color: $primary-link-hover-font-color
+            & svg
+                color: $primary-link-hover-font-color
+
+    &--secondary
+        color: $secondary-link-font-color
+        &--active
+            color: $secondary-link-active-font-color
+
+    &--tertiary
+        position: relative
+        color: $tertiary-link-font-color
+        font-weight: $tertiary-link-font-weight
+        text-decoration: $tertiary-link-text-decoration
+        &:hover 
+            color: $tertiary-link-hover-font-color
+            text-decoration: $tertiary-link-text-decoration
+
+    &--quaternary
+        padding: $quaternary-link-paddings
+        color: $quaternary-link-font-color
+        border-radius: $quaternary-link-radius
+        background-color: $quaternary-link-background-color
+        font-size: $quaternary-link-font-size
+        font-weight: $quaternary-link-font-weight
+        text-transform: $quaternary-link-text-transform
+        transition: all 0.3s ease
+        &--active
+            color: $quaternary-link-hover-font-color
+            background-color: $quaternary-link-hover-background-color
+        &:hover
+            color: $quaternary-link-hover-font-color
+            background-color: $quaternary-link-hover-background-color
+            transform: scale(1.1)

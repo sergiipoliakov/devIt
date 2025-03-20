@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Component Snapshot testing 1`] = `
+<DocumentFragment>
+  <div
+    class="fl wrapper-input-class fl--dir-col width--100 relative--core"
+  >
+    <label
+      class="label test-label-class"
+      for="test-input"
+    >
+      Test label
+    </label>
+    <div
+      class="relative--core width--100"
+    >
+      <input
+        autocomplete="off"
+        class="ant-input field-input-class input width--100"
+        id="test-input"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

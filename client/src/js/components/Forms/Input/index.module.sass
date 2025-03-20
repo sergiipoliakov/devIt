@@ -1,0 +1,67 @@
+@import '../default.vars.sass'
+@import '../../../../styles/__modificators/__text.sass'
+
+.input
+    position: relative
+    border: 1px solid $form-element-default-color
+    padding: $form-element-padding
+    color: $form-element-font-color
+    border-width: $form-element-border-width
+    border-color: $form-element-border-color
+    border-radius: $form-element-border-radius
+    transition: $form-element-transition
+    background-color: $form-element-background
+    @extend %text--default
+
+    &__icon
+        position: absolute
+        z-index: 2
+        right: 16px
+        bottom: 50%
+        transform: translateY(50%)
+    &:focus,
+    &:hover
+        border-color: $form-element-active-border-color
+        box-shadow: none
+        border-inline-end-width: $form-element-border-inline-end-width
+    &--error
+        border-color: $form-element-error-color !important
+    &--sufix
+        padding-right: 48px
+    & input 
+        &:disabled
+            cursor: not-allowed
+            color: $form-element-disabled-font-color
+            background-color: $form-element-disabled-background
+            border-color: $form-element-default-color !important
+            -webkit-text-fill-color: $form-element-disabled-font-color
+            opacity: 1
+            border-inline-end-width: $form-element-border-inline-end-width !important
+    &:disabled
+        cursor: not-allowed
+        color: $form-element-disabled-font-color
+        background-color: $form-element-disabled-background
+        border-color: $form-element-default-color !important
+        -webkit-text-fill-color: $form-element-disabled-font-color
+        opacity: 1
+        border-inline-end-width: $form-element-border-inline-end-width !important
+    &::placeholder
+        color: $form-element-placeholder-color
+        font-weight: $form-element-placeholder-font-weight
+    & input::placeholder
+        color: $form-element-placeholder-color
+
+    &__message
+        width: 100%
+        position: absolute
+        left: 4px
+        bottom: -22px
+        &--error
+            color: $form-element-error-color 
+
+    &__sufix
+        position: absolute
+        right: 16px
+        bottom: 50%
+        transform: translateY(50%)
+        z-index: 2

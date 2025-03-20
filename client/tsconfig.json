@@ -1,0 +1,42 @@
+{
+    "compilerOptions": {
+      "target": "es5", 
+      "types": [
+        "node", 
+        "cypress"
+      ],
+      "paths": {
+        "@custom-assets/*": ["./src/custom/*"],
+        "@custom-styles/*": ["./src/styles/custom/*"],
+        "@wicommon/components": ["./src/js/components"]
+      },
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "esnext"
+      ],
+      "allowJs": true,
+      "skipLibCheck": true,
+      "esModuleInterop": false,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "isolatedModules": true,
+      "resolveJsonModule": true,
+      "noEmit": true,
+      "jsx": "react",
+      "sourceMap": true,
+      "declaration": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "incremental": true,
+      "noFallthroughCasesInSwitch": true
+    },
+    "include": [
+      "src/**/*"
+, "app.mjs"    ],
+    "exclude": ["node_modules", "dist"]
+  }
+  

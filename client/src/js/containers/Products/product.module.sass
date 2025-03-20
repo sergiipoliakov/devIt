@@ -1,0 +1,30 @@
+@import '../../../styles/color.sass'
+.product
+  margin-top: 24px
+  &__list
+    display: flex
+    gap: 16px
+    ustify-content: space-between
+    flex-wrap: wrap
+  &__item
+    width: 30%
+    padding: 24px
+    border: 1px solid $default-border-color
+    border-radius: 8px
+    cursor: pointer
+    transmition: all 250ms linear
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.05)
+    &:hover 
+      background-color: $third-font-color
+    &--disabled
+      cursor: default
+      pointer-events: none
+      &:hover 
+        background-color: transparent
+  &__add
+    padding: 8px 16px
+    border: 1px solid $first-main-color
+    border-radius: 8px
+    &:hover
+      background-color: $first-main-color
+      color: $second-main-color

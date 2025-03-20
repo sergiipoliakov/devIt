@@ -1,0 +1,3000 @@
+{
+    "AF": {
+        "name": "Afghanistan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg",
+        "code": "93"
+    },
+    "AL": {
+        "name": "Albania",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg",
+        "code": "355"
+    },
+    "DZ": {
+        "name": "Algeria",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg",
+        "code": "213"
+    },
+    "AS": {
+        "name": "American Samoa",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg",
+        "code": "1684"
+    },
+    "AD": {
+        "name": "Andorra",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg",
+        "code": "376"
+    },
+    "AO": {
+        "name": "Angola",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg",
+        "code": "244"
+    },
+    "AI": {
+        "name": "Anguilla",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg",
+        "code": "1264"
+    },
+    "AQ": {
+        "name": "Antarctica",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg"
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg",
+        "code": "1268"
+    },
+    "AR": {
+        "name": "Argentina",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
+        "code": "54"
+    },
+    "AM": {
+        "name": "Armenia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg",
+        "code": "374"
+    },
+    "AW": {
+        "name": "Aruba",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AW.svg",
+        "code": "297"
+    },
+    "AU": {
+        "name": "Australia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg",
+        "code": "61"
+    },
+    "AT": {
+        "name": "Austria",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg",
+        "code": "43"
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg",
+        "code": "994"
+    },
+    "BS": {
+        "name": "Bahamas",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg",
+        "code": "1242"
+    },
+    "BH": {
+        "name": "Bahrain",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg",
+        "code": "973"
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg",
+        "code": "880"
+    },
+    "BB": {
+        "name": "Barbados",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg",
+        "code": "1246"
+    },
+    "BY": {
+        "name": "Belarus",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg",
+        "code": "375"
+    },
+    "BE": {
+        "name": "Belgium",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg",
+        "code": "32"
+    },
+    "BZ": {
+        "name": "Belize",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg",
+        "code": "501"
+    },
+    "BJ": {
+        "name": "Benin",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg",
+        "code": "229"
+    },
+    "BM": {
+        "name": "Bermuda",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg",
+        "code": "1441"
+    },
+    "BT": {
+        "name": "Bhutan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg",
+        "code": "975"
+    },
+    "BO": {
+        "name": "Bolivia, Plurinational State of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg",
+        "code": "591"
+    },
+    "BQ": {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BQ.svg",
+        "code": "5997"
+    },
+    "BA": {
+        "name": "Bosnia and Herzegovina",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg",
+        "code": "387"
+    },
+    "BW": {
+        "name": "Botswana",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg",
+        "code": "267"
+    },
+    "BR": {
+        "name": "Brazil",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg",
+        "code": "55"
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IO.svg",
+        "code": "246"
+    },
+    "BN": {
+        "name": "Brunei Darussalam",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg",
+        "code": "673"
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg",
+        "code": "359"
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg",
+        "code": "226"
+    },
+    "BI": {
+        "name": "Burundi",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg",
+        "code": "257"
+    },
+    "KH": {
+        "name": "Cambodia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg",
+        "code": "855"
+    },
+    "CM": {
+        "name": "Cameroon",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg",
+        "code": "237"
+    },
+    "CA": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": ""
+    },
+    "CA-A": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1587",
+        "originalCode": "1"
+    },
+    "CA-BC1": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1250",
+        "originalCode": "1"
+    },
+    "CA-BC2": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1604",
+        "originalCode": "1"
+    },
+    "CA-BC3": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1778",
+        "originalCode": "1"
+    },
+    "CA-GT1": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1289",
+        "originalCode": "1"
+    },
+    "CA-GT2": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1905",
+        "originalCode": "1"
+    },
+    "CA-MA": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1204",
+        "originalCode": "1"
+    },
+    "CA-MO": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1514",
+        "originalCode": "1"
+    },
+    "CA-NB": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1506",
+        "originalCode": "1"
+    },
+    "CA-N": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1709",
+        "originalCode": "1"
+    },
+    "CA-O1": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1226",
+        "originalCode": "1"
+    },
+    "CA-O2": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1519",
+        "originalCode": "1"
+    },
+    "CA-O3": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1613",
+        "originalCode": "1"
+    },
+    "CA-O4": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1705",
+        "originalCode": "1"
+    },
+    "CA-O5": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1807",
+        "originalCode": "1"
+    },
+    "CA-Q": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1819",
+        "originalCode": "1"
+    },
+    "CA-S": {
+        "name": "Canada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+        "code": "1306",
+        "originalCode": "1"
+    },
+    "US": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1"
+    },
+    "US-A1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1205",
+        "originalCode": "1"
+    },
+    "US-A2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1251",
+        "originalCode": "1"
+    },
+    "US-A3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1256",
+        "originalCode": "1"
+    },
+    "US-A4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1334",
+        "originalCode": "1"
+    },
+    "US-AL": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1907",
+        "originalCode": "1"
+    },
+    "US-AR1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1480",
+        "originalCode": "1"
+    },
+    "US-AR2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1520",
+        "originalCode": "1"
+    },
+    "US-AR3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1602",
+        "originalCode": "1"
+    },
+    "US-AR4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1623",
+        "originalCode": "1"
+    },
+    "US-AR5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1928",
+        "originalCode": "1"
+    },
+    "US-ARK1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1479",
+        "originalCode": "1"
+    },
+    "US-ARK2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1501",
+        "originalCode": "1"
+    },
+    "US-ARK3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1870",
+        "originalCode": "1"
+    },
+    "US-CA1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1209",
+        "originalCode": "1"
+    },
+    "US-CA2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1213",
+        "originalCode": "1"
+    },
+    "US-CA3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1310",
+        "originalCode": "1"
+    },
+    "US-CA4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1323",
+        "originalCode": "1"
+    },
+    "US-CA5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1408",
+        "originalCode": "1"
+    },
+    "US-CA6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1415",
+        "originalCode": "1"
+    },
+    "US-CA7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1424",
+        "originalCode": "1"
+    },
+    "US-CA8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1510",
+        "originalCode": "1"
+    },
+    "US-CA9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1530",
+        "originalCode": "1"
+    },
+    "US-CA10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1559",
+        "originalCode": "1"
+    },
+    "US-CA11": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1562",
+        "originalCode": "1"
+    },
+    "US-CA12": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1619",
+        "originalCode": "1"
+    },
+    "US-CA13": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1626",
+        "originalCode": "1"
+    },
+    "US-CA14": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1650",
+        "originalCode": "1"
+    },
+    "US-CA15": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1661",
+        "originalCode": "1"
+    },
+    "US-CA16": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1707",
+        "originalCode": "1"
+    },
+    "US-CA17": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1714",
+        "originalCode": "1"
+    },
+    "US-CA18": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1760",
+        "originalCode": "1"
+    },
+    "US-CA19": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1805",
+        "originalCode": "1"
+    },
+    "US-CA20": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1818",
+        "originalCode": "1"
+    },
+    "US-CA21": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1831",
+        "originalCode": "1"
+    },
+    "US-CA22": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1858",
+        "originalCode": "1"
+    },
+    "US-CA23": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1909",
+        "originalCode": "1"
+    },
+    "US-CA24": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1916",
+        "originalCode": "1"
+    },
+    "US-CA25": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1925",
+        "originalCode": "1"
+    },
+    "US-CA26": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1949",
+        "originalCode": "1"
+    },
+    "US-CA27": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1951",
+        "originalCode": "1"
+    },
+    "US-COL1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1303",
+        "originalCode": "1"
+    },
+    "US-COL2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1719",
+        "originalCode": "1"
+    },
+    "US-COL3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1720",
+        "originalCode": "1"
+    },
+    "US-COL4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1970",
+        "originalCode": "1"
+    },
+    "US-CON1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1203",
+        "originalCode": "1"
+    },
+    "US-CON2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1860",
+        "originalCode": "1"
+    },
+    "US-DE": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1302",
+        "originalCode": "1"
+    },
+    "US-DI": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1202",
+        "originalCode": "1"
+    },
+    "US-FL1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1689",
+        "originalCode": "1"
+    },
+    "US-FL2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1239",
+        "originalCode": "1"
+    },
+    "US-FL3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1305",
+        "originalCode": "1"
+    },
+    "US-FL4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1321",
+        "originalCode": "1"
+    },
+    "US-FL5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1352",
+        "originalCode": "1"
+    },
+    "US-FL6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1386",
+        "originalCode": "1"
+    },
+    "US-FL7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1407",
+        "originalCode": "1"
+    },
+    "US-FL8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1561",
+        "originalCode": "1"
+    },
+    "US-FL9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1727",
+        "originalCode": "1"
+    },
+    "US-FL10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1754",
+        "originalCode": "1"
+    },
+    "US-FL11": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1772",
+        "originalCode": "1"
+    },
+    "US-FL12": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1786",
+        "originalCode": "1"
+    },
+    "US-FL13": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1813",
+        "originalCode": "1"
+    },
+    "US-FL14": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1850",
+        "originalCode": "1"
+    },
+    "US-FL15": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1863",
+        "originalCode": "1"
+    },
+    "US-FL16": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1904",
+        "originalCode": "1"
+    },
+    "US-FL17": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1941",
+        "originalCode": "1"
+    },
+    "US-FL18": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1954",
+        "originalCode": "1"
+    },
+    "US-GE1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1762",
+        "originalCode": "1"
+    },
+    "US-GE2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1229",
+        "originalCode": "1"
+    },
+    "US-GE3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1404",
+        "originalCode": "1"
+    },
+    "US-GE4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1478",
+        "originalCode": "1"
+    },
+    "US-GE5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1678",
+        "originalCode": "1"
+    },
+    "US-GE6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1706",
+        "originalCode": "1"
+    },
+    "US-GE7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1770",
+        "originalCode": "1"
+    },
+    "US-GE8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1912",
+        "originalCode": "1"
+    },
+    "US-H": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1808",
+        "originalCode": "1"
+    },
+    "US-I": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1208",
+        "originalCode": "1"
+    },
+    "US-IL1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1730",
+        "originalCode": "1"
+    },
+    "US-IL2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1779",
+        "originalCode": "1"
+    },
+    "US-IL3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1217",
+        "originalCode": "1"
+    },
+    "US-IL4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1224",
+        "originalCode": "1"
+    },
+    "US-IL5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1309",
+        "originalCode": "1"
+    },
+    "US-IL6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1312",
+        "originalCode": "1"
+    },
+    "US-IL7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1447",
+        "originalCode": "1"
+    },
+    "US-IL8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1618",
+        "originalCode": "1"
+    },
+    "US-IL9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1630",
+        "originalCode": "1"
+    },
+    "US-IL10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1708",
+        "originalCode": "1"
+    },
+    "US-IL11": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1773",
+        "originalCode": "1"
+    },
+    "US-IL12": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1815",
+        "originalCode": "1"
+    },
+    "US-IL13": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1847",
+        "originalCode": "1"
+    },
+    "US-IN1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1219",
+        "originalCode": "1"
+    },
+    "US-IN2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1260",
+        "originalCode": "1"
+    },
+    "US-IN3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1317",
+        "originalCode": "1"
+    },
+    "US-IN4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1574",
+        "originalCode": "1"
+    },
+    "US-IN5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1765",
+        "originalCode": "1"
+    },
+    "US-IN6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1812",
+        "originalCode": "1"
+    },
+    "US-IO1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1319",
+        "originalCode": "1"
+    },
+    "US-IO2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1515",
+        "originalCode": "1"
+    },
+    "US-IO3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1563",
+        "originalCode": "1"
+    },
+    "US-IO4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1641",
+        "originalCode": "1"
+    },
+    "US-IO5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1712",
+        "originalCode": "1"
+    },
+    "US-KA1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1316",
+        "originalCode": "1"
+    },
+    "US-KA2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1620",
+        "originalCode": "1"
+    },
+    "US-KA3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1785",
+        "originalCode": "1"
+    },
+    "US-KA4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1913",
+        "originalCode": "1"
+    },
+    "US-KE1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1270",
+        "originalCode": "1"
+    },
+    "US-KE2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1502",
+        "originalCode": "1"
+    },
+    "US-KE3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1606",
+        "originalCode": "1"
+    },
+    "US-KE4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1859",
+        "originalCode": "1"
+    },
+    "US-LO1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1225",
+        "originalCode": "1"
+    },
+    "US-LO2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1318",
+        "originalCode": "1"
+    },
+    "US-LO3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1337",
+        "originalCode": "1"
+    },
+    "US-LO4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1504",
+        "originalCode": "1"
+    },
+    "US-LO5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1985",
+        "originalCode": "1"
+    },
+    "US-MAI": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1207",
+        "originalCode": "1"
+    },
+    "US-MAR1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1240",
+        "originalCode": "1"
+    },
+    "US-MAR2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1301",
+        "originalCode": "1"
+    },
+    "US-MAR3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1410",
+        "originalCode": "1"
+    },
+    "US-MAR4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1443",
+        "originalCode": "1"
+    },
+    "US-MAS1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1339",
+        "originalCode": "1"
+    },
+    "US-MAS2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1351",
+        "originalCode": "1"
+    },
+    "US-MAS3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1413",
+        "originalCode": "1"
+    },
+    "US-MAS4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1508",
+        "originalCode": "1"
+    },
+    "US-MAS5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1617",
+        "originalCode": "1"
+    },
+    "US-MAS6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1774",
+        "originalCode": "1"
+    },
+    "US-MAS7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1781",
+        "originalCode": "1"
+    },
+    "US-MAS8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1857",
+        "originalCode": "1"
+    },
+    "US-MAS9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1978",
+        "originalCode": "1"
+    },
+    "US-MIC1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1231",
+        "originalCode": "1"
+    },
+    "US-MIC2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1248",
+        "originalCode": "1"
+    },
+    "US-MIC3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1269",
+        "originalCode": "1"
+    },
+    "US-MIC4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1313",
+        "originalCode": "1"
+    },
+    "US-MIC5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1517",
+        "originalCode": "1"
+    },
+    "US-MIC6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1586",
+        "originalCode": "1"
+    },
+    "US-MIC7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1616",
+        "originalCode": "1"
+    },
+    "US-MIC8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1734",
+        "originalCode": "1"
+    },
+    "US-MIC9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1810",
+        "originalCode": "1"
+    },
+    "US-MIC10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1906",
+        "originalCode": "1"
+    },
+    "US-MIC11": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1947",
+        "originalCode": "1"
+    },
+    "US-MIC12": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1989",
+        "originalCode": "1"
+    },
+    "US-MIN1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1218",
+        "originalCode": "1"
+    },
+    "US-MIN2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1320",
+        "originalCode": "1"
+    },
+    "US-MIN3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1507",
+        "originalCode": "1"
+    },
+    "US-MIN4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1612",
+        "originalCode": "1"
+    },
+    "US-MIN5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1651",
+        "originalCode": "1"
+    },
+    "US-MIN6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1763",
+        "originalCode": "1"
+    },
+    "US-MIN7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1952",
+        "originalCode": "1"
+    },
+    "US-MISSI1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1228",
+        "originalCode": "1"
+    },
+    "US-MISSI2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1601",
+        "originalCode": "1"
+    },
+    "US-MISSI3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1662",
+        "originalCode": "1"
+    },
+    "US-MIS1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1769",
+        "originalCode": "1"
+    },
+    "US-MIS2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1314",
+        "originalCode": "1"
+    },
+    "US-MIS3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1417",
+        "originalCode": "1"
+    },
+    "US-MIS4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1573",
+        "originalCode": "1"
+    },
+    "US-MIS5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1636",
+        "originalCode": "1"
+    },
+    "US-MIS6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1660",
+        "originalCode": "1"
+    },
+    "US-MIS7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1816",
+        "originalCode": "1"
+    },
+    "US-M": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1406",
+        "originalCode": "1"
+    },
+    "US-NEB1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1308",
+        "originalCode": "1"
+    },    
+    "US-NEB2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1402",
+        "originalCode": "1"
+    },
+    "US-NEV1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1702",
+        "originalCode": "1"
+    },
+    "US-NEV2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1775",
+        "originalCode": "1"
+    },
+    "US-NH": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1603",
+        "originalCode": "1"
+    },
+    "US-NJ1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1201",
+        "originalCode": "1"
+    },
+    "US-NJ2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1551",
+        "originalCode": "1"
+    },
+    "US-NJ3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1609",
+        "originalCode": "1"
+    },
+    "US-NJ4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1732",
+        "originalCode": "1"
+    },
+    "US-NJ5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1848",
+        "originalCode": "1"
+    },
+    "US-NJ6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1856",
+        "originalCode": "1"
+    },
+    "US-NJ7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1862",
+        "originalCode": "1"
+    },
+    "US-NJ8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1908",
+        "originalCode": "1"
+    },
+    "US-NJ9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1973",
+        "originalCode": "1"
+    },
+    "US-NM1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1505",
+        "originalCode": "1"
+    },
+    "US-NM2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1575",
+        "originalCode": "1"
+    },
+    "US-NY1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1212",
+        "originalCode": "1"
+    },
+    "US-NY2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1315",
+        "originalCode": "1"
+    },
+    "US-NY3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1347",
+        "originalCode": "1"
+    },
+    "US-NY4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1516",
+        "originalCode": "1"
+    },
+    "US-NY5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1518",
+        "originalCode": "1"
+    },
+    "US-NY6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1585",
+        "originalCode": "1"
+    },
+    "US-NY7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1607",
+        "originalCode": "1"
+    },
+    "US-NY8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1631",
+        "originalCode": "1"
+    },
+    "US-NY9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1646",
+        "originalCode": "1"
+    },
+    "US-NY10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1716",
+        "originalCode": "1"
+    },
+    "US-NY11": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1718",
+        "originalCode": "1"
+    },
+    "US-NY12": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1845",
+        "originalCode": "1"
+    },
+    "US-NY13": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1914",
+        "originalCode": "1"
+    },
+    "US-NY14": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1917",
+        "originalCode": "1"
+    },
+    "US-NС1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1252",
+        "originalCode": "1"
+    },
+    "US-NС2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1336",
+        "originalCode": "1"
+    },
+    "US-NС3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1704",
+        "originalCode": "1"
+    },
+    "US-NС4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1828",
+        "originalCode": "1"
+    },
+    "US-NС5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1910",
+        "originalCode": "1"
+    },
+    "US-NС6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1919",
+        "originalCode": "1"
+    },
+    "US-NС7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1980",
+        "originalCode": "1"
+    },
+    "US-ND": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1701",
+        "originalCode": "1"
+    },
+    "US-OH1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1216",
+        "originalCode": "1"
+    },
+    "US-OH2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1234",
+        "originalCode": "1"
+    },
+    "US-OH3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1330",
+        "originalCode": "1"
+    },
+    "US-OH4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1419",
+        "originalCode": "1"
+    },
+    "US-OH5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1440",
+        "originalCode": "1"
+    },
+    "US-OH6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1513",
+        "originalCode": "1"
+    },
+    "US-OH7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1567",
+        "originalCode": "1"
+    },
+    "US-OH8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1614",
+        "originalCode": "1"
+    },
+    "US-OH9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1740",
+        "originalCode": "1"
+    },
+    "US-OH10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1937",
+        "originalCode": "1"
+    },
+    "US-OK1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1405",
+        "originalCode": "1"
+    },
+    "US-OK2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1580",
+        "originalCode": "1"
+    },
+    "US-OK3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1918",
+        "originalCode": "1"
+    },
+    "US-OR1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1503",
+        "originalCode": "1"
+    },
+    "US-OR2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1541",
+        "originalCode": "1"
+    },
+    "US-OR3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1971",
+        "originalCode": "1"
+    },
+    "US-P1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1215",
+        "originalCode": "1"
+    },
+    "US-P2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1267",
+        "originalCode": "1"
+    },
+    "US-P3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1412",
+        "originalCode": "1"
+    },
+    "US-P4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1484",
+        "originalCode": "1"
+    },
+    "US-P5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1570",
+        "originalCode": "1"
+    },
+    "US-P6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1610",
+        "originalCode": "1"
+    },
+    "US-P7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1717",
+        "originalCode": "1"
+    },
+    "US-P8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1724",
+        "originalCode": "1"
+    },
+    "US-P9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1814",
+        "originalCode": "1"
+    },
+    "US-P10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1878",
+        "originalCode": "1"
+    },
+    "US-R": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1401",
+        "originalCode": "1"
+    },
+    "US-SC1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1803",
+        "originalCode": "1"
+    },
+    "US-SC2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1843",
+        "originalCode": "1"
+    },
+    "US-SC3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1864",
+        "originalCode": "1"
+    },
+    "US-SD": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1605",
+        "originalCode": "1"
+    },
+    "US-TEN1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1423",
+        "originalCode": "1"
+    },
+    "US-TEN2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1615",
+        "originalCode": "1"
+    },
+    "US-TEN3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1731",
+        "originalCode": "1"
+    },
+    "US-TEN4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1865",
+        "originalCode": "1"
+    },
+    "US-TEN5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1901",
+        "originalCode": "1"
+    },
+    "US-TEN6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1931",
+        "originalCode": "1"
+    },
+    "US-T1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1210",
+        "originalCode": "1"
+    },
+    "US-T2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1214",
+        "originalCode": "1"
+    },
+    "US-T3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1254",
+        "originalCode": "1"
+    },
+    "US-T4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1281",
+        "originalCode": "1"
+    },
+    "US-T5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1325",
+        "originalCode": "1"
+    },
+    "US-T6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1361",
+        "originalCode": "1"
+    },
+    "US-T7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1409",
+        "originalCode": "1"
+    },
+    "US-T8": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1430",
+        "originalCode": "1"
+    },
+    "US-T9": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1432",
+        "originalCode": "1"
+    },
+    "US-T10": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1469",
+        "originalCode": "1"
+    },
+    "US-T11": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1512",
+        "originalCode": "1"
+    },
+    "US-T12": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1682",
+        "originalCode": "1"
+    },
+    "US-T13": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1713",
+        "originalCode": "1"
+    },
+    "US-T14": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1806",
+        "originalCode": "1"
+    },
+    "US-T15": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1817",
+        "originalCode": "1"
+    },
+    "US-T16": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1830",
+        "originalCode": "1"
+    },
+    "US-T17": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1832",
+        "originalCode": "1"
+    },
+
+    "US-T18": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1903",
+        "originalCode": "1"
+    },
+    "US-T19": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1915",
+        "originalCode": "1"
+    },
+    "US-T20": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1936",
+        "originalCode": "1"
+    },
+    "US-T21": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1940",
+        "originalCode": "1"
+    },
+    "US-T22": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1956",
+        "originalCode": "1"
+    },
+    "US-T23": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1972",
+        "originalCode": "1"
+    },
+    "US-T24": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1979",
+        "originalCode": "1"
+    },
+    "US-U1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1435",
+        "originalCode": "1"
+    },
+    "US-U2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1801",
+        "originalCode": "1"
+    },
+    "US-V": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1802",
+        "originalCode": "1"
+    },
+    "US-VI1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1276",
+        "originalCode": "1"
+    },
+    "US-VI2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1434",
+        "originalCode": "1"
+    },
+    "US-VI3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1540",
+        "originalCode": "1"
+    },
+    "US-VI4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1571",
+        "originalCode": "1"
+    },
+    "US-VI5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1703",
+        "originalCode": "1"
+    },
+    "US-VI6": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1757",
+        "originalCode": "1"
+    },
+    "US-VI7": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1804",
+        "originalCode": "1"
+    },
+    "US-WA1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1206",
+        "originalCode": "1"
+    },
+    "US-WA2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1253",
+        "originalCode": "1"
+    },
+    "US-WA3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1360",
+        "originalCode": "1"
+    },
+    "US-WA4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1425",
+        "originalCode": "1"
+    },
+    "US-WA5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1509",
+        "originalCode": "1"
+    },
+    "US-WV1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1681",
+        "originalCode": "1"
+    },
+    "US-WV2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1304",
+        "originalCode": "1"
+    },
+    "US-WI1": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1262",
+        "originalCode": "1"
+    },
+    "US-WI2": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1414",
+        "originalCode": "1"
+    },
+    "US-WI3": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1608",
+        "originalCode": "1"
+    },
+    "US-WI4": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1715",
+        "originalCode": "1"
+    },
+    "US-WI5": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1920",
+        "originalCode": "1"
+    },
+    "US-W": { 
+        "name": "United States",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+        "code": "1307",
+        "originalCode": "1"
+    },
+    "CV": {
+        "name": "Cape Verde",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg",
+        "code": "238"
+    },
+    "KY": {
+        "name": "Cayman Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KY.svg",
+        "code": "1-345"
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg",
+        "code": "236"
+    },
+    "TD": {
+        "name": "Chad",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg",
+        "code": "235"
+    },
+    "CL": {
+        "name": "Chile",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg",
+        "code": "56"
+    },
+    "CN": {
+        "name": "China",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
+        "code": "86"
+    },
+    "CO": {
+        "name": "Colombia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg",
+        "code": "57"
+    },
+    "KM": {
+        "name": "Comoros",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg",
+        "code": "269"
+    },
+    "CG": {
+        "name": "Congo",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg",
+        "code": "242"
+    },
+    "CD": {
+        "name": "Congo, the Democratic Republic of the",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg",
+        "code": "243"
+    },
+    "CK": {
+        "name": "Cook Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CK.svg",
+        "code": "682"
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg",
+        "code": "506"
+    },
+    "HR": {
+        "name": "Croatia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg",
+        "code": "385"
+    },
+    "CU": {
+        "name": "Cuba",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg",
+        "code": "53"
+    },
+    "CW": {
+        "name": "Curaçao",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CW.svg",
+        "code": "5999"
+    },
+    "CY": {
+        "name": "Cyprus",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg",
+        "code": "357"
+    },
+    "CZ": {
+        "name": "Czech Republic",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg",
+        "code": "420"
+    },
+    "CI": {
+        "name": "Côte d'Ivoire",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg",
+        "code": "225"
+    },
+    "DK": {
+        "name": "Denmark",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
+        "code": "45"
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg",
+        "code": "253"
+    },
+    "DM": {
+        "name": "Dominica",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg",
+        "code": "1767"
+    },
+    "DO": {
+        "name": "Dominican Republic",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
+        "code": "1809"
+    },
+    "EC": {
+        "name": "Ecuador",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg",
+        "code": "593"
+    },
+    "EG": {
+        "name": "Egypt",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg",
+        "code": "20"
+    },
+    "SV": {
+        "name": "El Salvador",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg",
+        "code": "503"
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg",
+        "code": "240"
+    },
+    "ER": {
+        "name": "Eritrea",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg",
+        "code": "291"
+    },
+    "EE": {
+        "name": "Estonia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg",
+        "code": "372"
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg",
+        "code": "251"
+    },
+    "FK": {
+        "name": "Falkland Islands (Malvinas)",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FK.svg",
+        "code": "500"
+    },
+    "FO": {
+        "name": "Faroe Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FO.svg",
+        "code": "298"
+    },
+    "FJ": {
+        "name": "Fiji",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg",
+        "code": "679"
+    },
+    "FI": {
+        "name": "Finland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg",
+        "code": "358"
+    },
+    "FR": {
+        "name": "France",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+        "code": "33"
+    },
+    "FR_IL": {
+        "name": "France",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+        "code": "590"
+    },
+    "TF": {
+        "name": "French Southern Territories",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TF.svg",
+        "code": "26269",
+        "originalCode": "262"
+    },
+    "GF": {
+        "name": "French Guiana",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg",
+        "code": "594"
+    },
+    "PF": {
+        "name": "French Polynesia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg",
+        "code": "689"
+    },
+    "GA": {
+        "name": "Gabon",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg",
+        "code": "241"
+    },
+    "GM": {
+        "name": "Gambia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg",
+        "code": "220"
+    },
+    "GE": {
+        "name": "Georgia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg",
+        "code": "995"
+    },
+    "DE": {
+        "name": "Germany",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg",
+        "code": "49"
+    },
+    "GH": {
+        "name": "Ghana",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg",
+        "code": "233"
+    },
+    "GI": {
+        "name": "Gibraltar",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GI.svg",
+        "code": "350"
+    },
+    "GR": {
+        "name": "Greece",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg",
+        "code": "30"
+    },
+    "GL": {
+        "name": "Greenland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg",
+        "code": "299"
+    },
+    "GD": {
+        "name": "Grenada",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg",
+        "code": "1473"
+    },
+    "GU": {
+        "name": "Guam",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GU.svg",
+        "code": "1-671"
+    },
+    "GT": {
+        "name": "Guatemala",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg",
+        "code": "502"
+    },
+    "GG": {
+        "name": "Guernsey",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GG.svg",
+        "code": "441481"
+    },
+    "GN": {
+        "name": "Guinea",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg",
+        "code": "224"
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg",
+        "code": "245"
+    },
+    "GY": {
+        "name": "Guyana",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg",
+        "code": "592"
+    },
+    "HT": {
+        "name": "Haiti",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg",
+        "code": "509"
+    },
+    "VA": {
+        "name": "Holy See (Vatican City State)",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VA.svg",
+        "code": "379"
+    },
+    "HN": {
+        "name": "Honduras",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg",
+        "code": "504"
+    },
+    "HK": {
+        "name": "Hong Kong",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg",
+        "code": "852"
+    },
+    "HU": {
+        "name": "Hungary",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg",
+        "code": "36"
+    },
+    "IS": {
+        "name": "Iceland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg",
+        "code": "354"
+    },
+    "IN": {
+        "name": "India",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg",
+        "code": "91"
+    },
+    "ID": {
+        "name": "Indonesia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg",
+        "code": "62"
+    },
+    "IR": {
+        "name": "Iran, Islamic Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
+        "code": "98"
+    },
+    "IQ": {
+        "name": "Iraq",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg",
+        "code": "964"
+    },
+    "IE": {
+        "name": "Ireland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg",
+        "code": "353"
+    },
+    "IM": {
+        "name": "Isle of Man",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IM.svg",
+        "code": "441624"
+    },
+    "IL": {
+        "name": "Israel",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
+        "code": "972"
+    },
+    "IT": {
+        "name": "Italy",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg",
+        "code": "39"
+    },
+    "JM": {
+        "name": "Jamaica",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg",
+        "code": "1-876"
+    },
+    "JP": {
+        "name": "Japan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg",
+        "code": "81"
+    },
+    "JE": {
+        "name": "Jersey",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JE.svg",
+        "code": "44-1534"
+    },
+    "JO": {
+        "name": "Jordan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg",
+        "code": "962"
+    }, 
+    "KZ-1": {
+        "name": "Kazakhstan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
+        "code": "72",
+        "originalCode": "7"
+    },
+    "KZ-2": {
+        "name": "Kazakhstan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
+        "code": "76",
+        "originalCode": "7"
+    },
+    "KZ-3": {
+        "name": "Kazakhstan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
+        "code": "77",
+        "originalCode": "7"
+    },
+    "KE": {
+        "name": "Kenya",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg",
+        "code": "254"
+    },
+    "KI": {
+        "name": "Kiribati",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg",
+        "code": "686"
+    },
+    "KP": {
+        "name": "Korea, Democratic People's Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
+        "code": "850"
+    },
+    "KR": {
+        "name": "Korea, Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
+        "code": "82"
+    },
+    "KW": {
+        "name": "Kuwait",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg",
+        "code": "965"
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg",
+        "code": "996"
+    },
+    "LA": {
+        "name": "Lao People's Democratic Republic",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
+        "code": "856"
+    },
+    "LV": {
+        "name": "Latvia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg",
+        "code": "371"
+    },
+    "LB": {
+        "name": "Lebanon",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg",
+        "code": "961"
+    },
+    "LS": {
+        "name": "Lesotho",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg",
+        "code": "266"
+    },
+    "LR": {
+        "name": "Liberia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg",
+        "code": "231"
+    },
+    "LY": {
+        "name": "Libya",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg",
+        "code": "218"
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg",
+        "code": "423"
+    },
+    "LT": {
+        "name": "Lithuania",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg",
+        "code": "370"
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg",
+        "code": "352"
+    },
+    "MO": {
+        "name": "Macao",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MO.svg",
+        "code": "853"
+    },
+    "MK": {
+        "name": "Macedonia, the Former Yugoslav Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg",
+        "code": "389"
+    },
+    "MG": {
+        "name": "Madagascar",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg",
+        "code": "261"
+    },
+    "MW": {
+        "name": "Malawi",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg",
+        "code": "265"
+    },
+    "MY": {
+        "name": "Malaysia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg",
+        "code": "60"
+    },
+    "MV": {
+        "name": "Maldives",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg",
+        "code": "960"
+    },
+    "ML": {
+        "name": "Mali",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg",
+        "code": "223"
+    },
+    "MT": {
+        "name": "Malta",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg",
+        "code": "356"
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg",
+        "code": "692"
+    },
+    "MQ": {
+        "name": "Martinique",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MQ.svg",
+        "code": "596"
+    },
+    "MR": {
+        "name": "Mauritania",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg",
+        "code": "222"
+    },
+    "MU": {
+        "name": "Mauritius",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg",
+        "code": "230"
+    },
+    "YT": {
+        "name": "Mayotte",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YT.svg",
+        "code": "26253",
+        "originalCode": "262"
+    },
+    "MX": {
+        "name": "Mexico",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
+        "code": "52"
+    },
+    "FM": {
+        "name": "Micronesia, Federated States of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg",
+        "code": "691"
+    },
+    "MD": {
+        "name": "Moldova, Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg",
+        "code": "373"
+    },
+    "MC": {
+        "name": "Monaco",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg",
+        "code": "377"
+    },
+    "MN": {
+        "name": "Mongolia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg",
+        "code": "976"
+    },
+    "ME": {
+        "name": "Montenegro",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg",
+        "code": "382"
+    },
+    "MS": {
+        "name": "Montserrat",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MS.svg",
+        "code": "1664"
+    },
+    "MA": {
+        "name": "Morocco",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg",
+        "code": "212"
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg",
+        "code": "258"
+    },
+    "MM": {
+        "name": "Myanmar",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg",
+        "code": "95"
+    },
+    "NA": {
+        "name": "Namibia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg",
+        "code": "264"
+    },
+    "NR": {
+        "name": "Nauru",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg",
+        "code": "674"
+    },
+    "NP": {
+        "name": "Nepal",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg",
+        "code": "977"
+    },
+    "NL": {
+        "name": "Netherlands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
+        "code": "31"
+    },
+    "NC": {
+        "name": "New Caledonia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NC.svg",
+        "code": "687"
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg",
+        "code": "64"
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg",
+        "code": "505"
+    },
+    "NE": {
+        "name": "Niger",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg",
+        "code": "227"
+    },
+    "NG": {
+        "name": "Nigeria",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg",
+        "code": "234"
+    },
+    "NU": {
+        "name": "Niue",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NU.svg",
+        "code": "683"
+    },
+    "NF": {
+        "name": "Norfolk Island",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NF.svg",
+        "code": "672"
+    },
+    "MP": {
+        "name": "Northern Mariana Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MP.svg",
+        "code": "1670"
+    },
+    "NO": {
+        "name": "Norway",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg",
+        "code": "47"
+    },
+    "OM": {
+        "name": "Oman",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg",
+        "code": "968"
+    },
+    "PK": {
+        "name": "Pakistan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg",
+        "code": "92"
+    },
+    "PW": {
+        "name": "Palau",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PW.svg",
+        "code": "680"
+    },
+    "PS": {
+        "name": "Palestine, State of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PS.svg",
+        "code": "970"
+    },
+    "PA": {
+        "name": "Panama",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg",
+        "code": "507"
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg",
+        "code": "675"
+    },
+    "PY": {
+        "name": "Paraguay",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg",
+        "code": "595"
+    },
+    "PE": {
+        "name": "Peru",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg",
+        "code": "51"
+    },
+    "PH": {
+        "name": "Philippines",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg",
+        "code": "63"
+    },
+    "PN": {
+        "name": "Pitcairn",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PN.svg",
+        "code": "870"
+    },
+    "PL": {
+        "name": "Poland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
+        "code": "48"
+    },
+    "PT": {
+        "name": "Portugal",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg",
+        "code": "351"
+    },
+    "PR": {
+        "name": "Puerto Rico",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg",
+        "code": "1-787"
+    },
+    "QA": {
+        "name": "Qatar",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
+        "code": "974"
+    },
+    "RO": {
+        "name": "Romania",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg",
+        "code": "40"
+    },
+    "RU": {
+        "name": "Russian Federation",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg",
+        "code": "7"
+    },
+    "RW": {
+        "name": "Rwanda",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
+        "code": "250"
+    },
+    "RE": {
+        "name": "Réunion",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RE.svg",
+        "code": "26209",
+        "originalCode": "262"
+    },
+    "SH": {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SH.svg",
+        "code": "290"
+    },
+    "KN": {
+        "name": "Saint Kitts and Nevis",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg",
+        "code": "1869"
+    },
+    "LC": {
+        "name": "Saint Lucia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg",
+        "code": "1758"
+    },
+    "PM": {
+        "name": "Saint Pierre and Miquelon",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PM.svg",
+        "code": "508"
+    },
+    "VC": {
+        "name": "Saint Vincent and the Grenadines",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg",
+        "code": "1-784"
+    },
+    "WS": {
+        "name": "Samoa",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg",
+        "code": "685"
+    },
+    "SM": {
+        "name": "San Marino",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg",
+        "code": "378"
+    },
+    "ST": {
+        "name": "Sao Tome and Principe",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg",
+        "code": "239"
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg",
+        "code": "966"
+    },
+    "SN": {
+        "name": "Senegal",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
+        "code": "221"
+    },
+    "RS": {
+        "name": "Serbia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg",
+        "code": "381"
+    },
+    "SC": {
+        "name": "Seychelles",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg",
+        "code": "248"
+    },
+    "SL": {
+        "name": "Sierra Leone",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg",
+        "code": "232"
+    },
+    "SG": {
+        "name": "Singapore",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg",
+        "code": "65"
+    },
+    "SX": {
+        "name": "Sint Maarten (Dutch part)",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SX.svg",
+        "code": "1721"
+    },
+    "SK": {
+        "name": "Slovakia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg",
+        "code": "421"
+    },
+    "SI": {
+        "name": "Slovenia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg",
+        "code": "386"
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg",
+        "code": "677"
+    },
+    "SO": {
+        "name": "Somalia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg",
+        "code": "252"
+    },
+    "ZA": {
+        "name": "South Africa",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg",
+        "code": "27"
+    },
+    "GS": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GS.svg",
+        "code": ""
+    },
+    "SS": {
+        "name": "South Sudan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SS.svg",
+        "code": "211"
+    },
+    "ES": {
+        "name": "Spain",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+        "code": "34"
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg",
+        "code": "94"
+    },
+    "SD": {
+        "name": "Sudan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg",
+        "code": "249"
+    },
+    "SR": {
+        "name": "Suriname",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg",
+        "code": "597"
+    },
+    "SJ": {
+        "name": "Svalbard and Jan Mayen",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SJ.svg",
+        "code": "4779",
+        "originalCode": "47"
+    },
+    "SZ": {
+        "name": "Swaziland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg",
+        "code": "268"
+    },
+    "SE": {
+        "name": "Sweden",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg",
+        "code": "46"
+    },
+    "CH": {
+        "name": "Switzerland",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg",
+        "code": "41"
+    },
+    "SY": {
+        "name": "Syrian Arab Republic",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg",
+        "code": "963"
+    },
+    "TW": {
+        "name": "Taiwan, Province of China",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg",
+        "code": "886"
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg",
+        "code": "992"
+    },
+    "TZ": {
+        "name": "Tanzania, United Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg",
+        "code": "255"
+    },
+    "TH": {
+        "name": "Thailand",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg",
+        "code": "66"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg",
+        "code": "670"
+    },
+    "TG": {
+        "name": "Togo",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg",
+        "code": "228"
+    },
+    "TK": {
+        "name": "Tokelau",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TK.svg",
+        "code": "690"
+    },
+    "TO": {
+        "name": "Tonga",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg",
+        "code": "676"
+    },
+    "TT": {
+        "name": "Trinidad and Tobago",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg",
+        "code": "1868"
+    },
+    "TN": {
+        "name": "Tunisia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
+        "code": "216"
+    },
+    "TR": {
+        "name": "Turkey",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg",
+        "code": "90"
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg",
+        "code": "993"
+    },
+    "TC": {
+        "name": "Turks and Caicos Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TC.svg",
+        "code": "1649"
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TV.svg",
+        "code": "688"
+    },
+    "UG": {
+        "name": "Uganda",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg",
+        "code": "256"
+    },
+    "UA": {
+        "name": "Ukraine",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg",
+        "code": "380"
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
+        "code": "971"
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg",
+        "code": "44"
+    },
+    "UY": {
+        "name": "Uruguay",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg",
+        "code": "598"
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg",
+        "code": "998"
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg",
+        "code": "678"
+    },
+    "VE": {
+        "name": "Venezuela, Bolivarian Republic of",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg",
+        "code": "58"
+    },
+    "VN": {
+        "name": "Viet Nam",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg",
+        "code": "84"
+    },
+    "VG": {
+        "name": "Virgin Islands, British",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VG.svg",
+        "code": "1284"
+    },
+    "VI": {
+        "name": "Virgin Islands, U.S.",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VI.svg",
+        "code": "1340"
+    },
+    "WF": {
+        "name": "Wallis and Futuna",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WF.svg",
+        "code": "681"
+    },
+    "YE": {
+        "name": "Yemen",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg",
+        "code": "967"
+    },
+    "ZM": {
+        "name": "Zambia",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg",
+        "code": "260"
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg",
+        "code": "263"
+    },
+    "AX": {
+        "name": "Åland Islands",
+        "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AX.svg",
+        "code": "35818"
+    }
+}

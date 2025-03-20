@@ -1,0 +1,5 @@
+{
+    "DEFAULT_LIMIT": 12,
+    "DEFAULT_OFFSET": 1,
+    "LIMIT_EIGHT": 8
+}

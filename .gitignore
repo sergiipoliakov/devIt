@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.env
+nginx.conf
+nginx.website.conf
+custom
+client/src/templates
+node_modules
+client/cypress/fixtures
+client/cypress/integration
+redis
+mongo
+yarn-error.log 
+dist

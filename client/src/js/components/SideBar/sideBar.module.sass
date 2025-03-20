@@ -1,0 +1,63 @@
+@import '../../../styles/color.sass'
+
+.side-bar
+    overscroll-behavior: none
+    width: 17%
+    height: 100%
+    padding-left: 24px
+    padding-right: 18px
+    padding-top: 24px
+    background-color: $first-main-color
+    @media (max-width: 1919px)
+        width: 22%
+    @media (min-width: 1024px) and (max-width: 1680px)
+        width: 102px
+        padding-left: 20px
+        padding-right: 20px
+    @media (max-width: 1023px)
+        position: absolute
+        left: 0px
+        display: flex
+        overflow-x: hidden
+        width: 33%
+        justify-content: space-between
+        opacity: 0
+        transform: translateX(-100%)
+        z-index: 102
+        transition: 0.3s linear
+    @media (max-width: 767px)
+        width: 50%
+    @media (max-width: 568px)
+        width: 60%
+    @media (max-width: 490px)
+        width: 100%
+    &--mobile-no-logo
+        padding-top: 48px
+    &__mobile-backdrop
+        position: fixed
+        top: 0
+        right: 0
+        left: 0
+        bottom: 0
+        z-index: 101
+        background: rgba(18, 18, 18, 0.6)
+        display: none
+        @media (max-width: 1023px)
+            display: block
+    &__button-close
+        position: absolute
+        padding: 0
+        margin: 0
+        top: 20px
+        right: 20px
+        z-index: 1
+        color: $second-font-color
+        display: none
+        @media (max-width: 1023px)
+            display: block
+    &--active
+        opacity: 1
+        transform: translateX(0)
+    &__button-close-icon
+        &:hover 
+            color: $second-font-color

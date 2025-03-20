@@ -1,0 +1,45 @@
+@import '../../../styles/color.sass'
+
+.modal 
+    position: fixed
+    top: 0
+    left: 0
+    bottom: 0
+    right: 0
+    height: 100%
+    width: 100%
+    background-color: rgba(0, 0, 0, 0.1)
+    opacity: 0
+    pointer-events: none
+    transition: all 0.3s
+    z-index: 2
+    backdrop-filter: blur(5px)
+    &--active
+        z-index: 1000
+        opacity: 1
+        pointer-events: all
+    &__content 
+        padding: 48px
+        position: relative  
+        transform: scale(0.5)
+        transition: all 0.3s
+        box-shadow: 0px 3.5px 9px rgba(0, 0, 0, 0.09)
+        max-height: 90%
+        border-radius: 8px
+        @media (max-width: 767px)
+            padding: 36px 16px
+
+        &--active
+            transform: scale(1)
+    &__button-close
+        position: absolute
+        top: 28px
+        right: 28px
+        z-index: 3
+        @media (max-width: 767px)
+            top: 14px
+            right: 16px
+
+    &__button-close-icon
+        &:hover 
+            color: $first-font-color

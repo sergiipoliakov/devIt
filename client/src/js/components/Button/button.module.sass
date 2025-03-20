@@ -1,0 +1,91 @@
+@import './default.vars.sass'
+@import '../../../styles/__modificators/__text.sass'
+
+.button
+    position: relative
+    white-space: nowrap
+    border: 1px solid transparent
+    @extend %text--small
+    line-height: 1.4
+    &--primary
+        padding: $primary-button-paddings
+        color: $primary-button-font-color
+        border-radius: $primary-button-radius
+        background-color: $primary-button-background-color
+        font-size: $primary-button-font-size
+        font-weight: $primary-button-font-weight
+        text-transform: $primary-button-text-transform
+        overflow: hidden
+        transition: all 0.3s ease
+        & svg
+            color: $primary-button-font-color
+        &:hover
+            color: $primary-button-hover-font-color
+            background-color: $primary-button-hover-background-color
+            border: 1px solid $primary-button-hover-border-color
+            transform: scale(1.1)
+            & svg
+                color: $primary-button-hover-font-color
+            &::before
+                animation: glassPrimaryButton 2s ease infinite
+        &:disabled
+            cursor: not-allowed
+            color: $primary-button-disabled-font-color
+            background-color: $primary-button-disabled-background-color
+            border: 1px solid $primary-button-disabled-border-color
+            transform: none
+            &:hover
+                transform: none
+                & svg                
+                    color: $primary-button-disabled-font-color
+            &::before
+                animation-name: none
+
+    &--secondary
+        padding: 4px 0
+        color: $secondary-button-font-color
+        border-radius: $secondary-button-radius
+        text-transform: $secondary-button-text-transform
+        font-size: $secondary-button-font-size
+        font-weight: $secondary-button-font-weight
+        &:hover
+            color: $secondary-button-hover-font-color
+        &:disabled
+            cursor: not-allowed
+            color: $secondary-button-disabled-font-color
+            background-color: $secondary-button-disabled-background-color
+                        
+    &--secondary-active
+        color: $secondary-button-hover-font-color
+
+    &--tertiary
+        padding: $tertiary-button-paddings
+        color: $tertiary-button-font-color
+        border-radius: $tertiary-button-radius
+        background-color: $tertiary-button-background-color
+        font-size: $tertiary-button-font-size
+        font-weight: $tertiary-button-font-weight
+        text-transform: $tertiary-button-text-transform
+        overflow: hidden
+        border: 1px solid $tertiary-button-border-color
+        transition: all 0.3s ease
+        @extend %text--default
+        &:hover
+            color: $tertiary-button-hover-font-color
+            background-color: $tertiary-button-hover-background-color
+            border: 1px solid $tertiary-button-border-color
+            transform: scale(1.1)
+        &:disabled
+            cursor: not-allowed
+            color: $tertiary-button-disabled-font-color
+            background-color: $tertiary-button-disabled-background-color
+            
+    &--underline
+        color: $underline-button-color
+        border-bottom: 1px solid $underline-button-border
+        font-size: $underline-button-font-size
+        font-weight: $underline-button-font-weight
+        transition: 0.4s all ease
+        &:hover
+            color: $underline-button-hover-color
+            border-bottom: 1px solid $underline-button-hover-border

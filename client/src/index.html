@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+    <title>Law</title>
+</head>
+<script>
+    const { language } = navigator;
+    const isRussian = language === 'ru' || language === 'ru-RU';
+    if (isRussian) {
+        const html = document.getElementsByTagName('html')[0];
+        const head = document.getElementsByTagName('head')[0];
+        html.setAttribute('translate', 'no');
+        html.setAttribute('class', 'notranslate');
+        const noGoogleTranslateMeta = document.createElement('meta');
+        noGoogleTranslateMeta.name = "google";
+        noGoogleTranslateMeta.content = "notranslate";
+        head.appendChild(noGoogleTranslateMeta);
+    }
+</script>
+<body id="wi">
+    <% if (process.env.FACEBOOK_PAGE_ID) { %>
+        <div id="fb-root" style="position: relative; z-index: 999;"></div>
+        <div id="fb-customer-chat" attribution="biz_inbox" page_id="<%= process.env.FACEBOOK_PAGE_ID %>" class="fb-customerchat"></div>
+        <script>window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v18.0"})},function(e,t,n){var c,s=e.getElementsByTagName(t)[0];e.getElementById(n)||((c=e.createElement(t)).id=n,c.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",s.parentNode.insertBefore(c,s))}(document,"script","facebook-jssdk");</script>
+    <% } %>
+      
+    <main id="app"></main>
+</body>
+
+</html>
